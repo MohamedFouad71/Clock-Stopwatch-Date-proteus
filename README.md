@@ -20,8 +20,7 @@ This project was developed as part of the Logic Design course, featuring a fully
 
 - **Proteus Simulation Software**
 - **Digital Logic Circuit Design**
-- **Electronic Components & Breadboarding**
-- **Timing and Counting Logic with Flip-Flops and Counters**
+- **Timing and Counting Logic with Counters**
 
 ## 🖥️ Simulation & Hardware Implementation
 
