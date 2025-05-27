@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/95cfc6d6-7806-41f2-aaca-38d90988ae7e)# ⏰ Logic Design Project – Clock, Stopwatch, and Date
+# ⏰ Logic Design Project – Clock, Stopwatch, and Date
 
 This project was developed as part of the Logic Design course, featuring a fully functional digital **Clock**, **Stopwatch**, and **Date system** using digital logic principles.
 
@@ -27,6 +27,18 @@ This project was developed as part of the Logic Design course, featuring a fully
 
 The project was first designed and verified through simulation in Proteus.
 
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 ## Circuits Diagram
 
 ### Date 
