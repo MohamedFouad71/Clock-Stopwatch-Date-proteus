@@ -6,7 +6,7 @@ This project was developed as part of the Logic Design course, featuring a fully
 
 - 🕒 **Digital Clock**  
   - Displays hours, minutes, and seconds  
-  - Supports 12/24-hour format handling
+  - 12 hour format handling
 
 - ⏱️ **Stopwatch**  
   - Includes start, stop, and reset functionality  
